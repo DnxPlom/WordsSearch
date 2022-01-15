@@ -9,8 +9,8 @@ run search.py to match the string with dictionary words.
 
 ## Example:
 ### python3 search.py
-Enter search word:  lkndsalknda
-Enter word length:  6
+Enter search word:  lkndsalknda  
+Enter word length:  6  
 
 output:
   alands
