@@ -13,24 +13,24 @@ Enter search word:  lkndsalknda
 Enter word length:  6  
 
 output:
-  alands
-  annals
-  dallan
-  dallas
-  kansan
-  sanand
-  sandak
-  sandal
-  sandan
-  skanda
+  alands  
+  annals  
+  dallan  
+  dallas  
+  kansan  
+  sanand  
+  sandak  
+  sandal  
+  sandan  
+  skanda  
   
   370102 words searched.
 
 
 ## Example 2:
 ### python3 search.py
-Enter search word:  lkndsalknda
-Enter word length:  7
+Enter search word:  lkndsalknda  
+Enter word length:  7  
 
 output:
   370102 words searched. 
